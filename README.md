@@ -1,6 +1,6 @@
 # House_price_prediction
 
-This is a Python ML project.
+This is a House price prediction Python ML project.
 
 Add a Structure:
 
